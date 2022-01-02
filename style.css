@@ -224,7 +224,7 @@ a.author{
   right: 100px;
 }
 
-@-webkit-keyframes in_2019 {
+@-webkit-keyframes in_2022 {
   0% {
     right: 0%;
   }
@@ -241,7 +241,7 @@ a.author{
   }
 }
 
-@keyframes in_2019 {
+@keyframes in_2022 {
   0% {
     right: 0%;
   }
@@ -317,7 +317,7 @@ a.author{
     width: 70px;
   }
 }
-@-webkit-keyframes out_2018 {
+@-webkit-keyframes out_2021 {
   0% {
     top: 50%;
   }
@@ -325,7 +325,7 @@ a.author{
     top: -100%;
   }
 }
-@keyframes out_2018 {
+@keyframes out_2021 {
   0% {
     top: 50%;
   }
